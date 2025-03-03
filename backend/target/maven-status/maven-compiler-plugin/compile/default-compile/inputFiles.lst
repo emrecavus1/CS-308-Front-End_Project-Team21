@@ -1,0 +1,5 @@
+/Users/emrecavus/IdeaProjects/backend/src/main/java/com/team21/backend/BackendApplication.java
+/Users/emrecavus/IdeaProjects/backend/src/main/java/com/team21/backend/controllers/AuthController.java
+/Users/emrecavus/IdeaProjects/backend/src/main/java/com/team21/backend/models/User.java
+/Users/emrecavus/IdeaProjects/backend/src/main/java/com/team21/backend/repositories/UserRepository.java
+/Users/emrecavus/IdeaProjects/backend/src/main/java/com/team21/backend/services/UserService.java
