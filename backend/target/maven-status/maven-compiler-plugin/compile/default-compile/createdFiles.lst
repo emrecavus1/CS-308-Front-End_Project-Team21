@@ -1,5 +1,0 @@
-com/team21/backend/models/User.class
-com/team21/backend/repositories/UserRepository.class
-com/team21/backend/controllers/AuthController.class
-com/team21/backend/services/UserService.class
-com/team21/backend/BackendApplication.class
