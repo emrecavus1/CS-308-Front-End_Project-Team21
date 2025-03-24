@@ -1,6 +1,6 @@
 import React from "react";
 import { FaSearch, FaHeart, FaShoppingCart, FaUser } from "react-icons/fa";
-import { useNavigate } from "react-router-dom"; // Import useNavigate for navigation
+import { useNavigate } from "react-router-dom";
 import "./Landing.css";
 
 const Landing = () => {
